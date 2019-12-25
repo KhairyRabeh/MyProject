@@ -17,4 +17,9 @@ public class GitProject {
         System.out.println("Mohammed");
     
 }
+    static void printName4(){
+        System.out.println("Anas");
+    
+
+}
 }
